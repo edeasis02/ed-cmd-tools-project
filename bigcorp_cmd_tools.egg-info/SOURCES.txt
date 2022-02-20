@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+bigcorp_cmd_tools.egg-info/PKG-INFO
+bigcorp_cmd_tools.egg-info/SOURCES.txt
+bigcorp_cmd_tools.egg-info/dependency_links.txt
+bigcorp_cmd_tools.egg-info/requires.txt
+bigcorp_cmd_tools.egg-info/top_level.txt
+cmd_tools/__init__.py
+cmd_tools/bulk_rename.py

@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: bigcorp-cmd-tools
+Version: 0.0.1
+Summary: A collection of command line utilities.
+Home-page: https://vcs.bigcorp.xyz/devops/cmd_tools_project
+Author: Juan Dela Cruz
+Author-email: juan@delacruz.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Bigcorp CMD Tools
+=================
+This is a collection of CMD Tools used for DevOps scrip
+ts.
+
+
